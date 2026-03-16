@@ -282,7 +282,7 @@ Font weight:
 
 ------------------------------------------------------------------------
 
-## :pushpin: Minimal Examples
+# :pushpin: Minimal Examples
 
 ### Simple clock
 
