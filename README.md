@@ -21,14 +21,39 @@ Designed to be clean, lightweight and grid-friendly.
 
 ------------------------------------------------------------------------
 
-# ✨ Features
+## Features
 
--   Lightweight
--   No dependencies
--   Fully configurable
--   Grid-friendly layout
--   Multi-language support
--   Minimal design
+- 24h / 12h clock
+- optional seconds
+- optional weekday
+- optional AM/PM
+- animated dividers
+- configurable alignment
+- configurable typography
+- configurable colors
+- tabular numeric rendering
+
+------------------------------------------------------------------------
+
+## Why this card?
+
+Many Home Assistant dashboards need a clean, configurable clock.
+
+Most existing clock cards are either too simple or too visually heavy for modern Lovelace dashboards.
+
+**Clock Card** focuses on:
+
+- minimal design
+- clean typography
+- flexible YAML configuration
+- grid-friendly layout
+- zero dependencies
+
+The goal is to provide a **simple clock that integrates naturally into modern Home Assistant dashboards.**
+
+---
+
+⭐ If you find this card useful, consider starring the repository.
 
 ------------------------------------------------------------------------
 
