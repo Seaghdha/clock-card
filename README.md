@@ -21,20 +21,6 @@ Designed to be clean, lightweight and grid-friendly.
 
 ------------------------------------------------------------------------
 
-## Features
-
-- 24h / 12h clock
-- optional seconds
-- optional weekday
-- optional AM/PM
-- animated dividers
-- configurable alignment
-- configurable typography
-- configurable colors
-- tabular numeric rendering
-
-------------------------------------------------------------------------
-
 ## Why this card?
 
 Many Home Assistant dashboards need a clean, configurable clock.
@@ -54,6 +40,20 @@ The goal is to provide a **simple clock that integrates naturally into modern Ho
 ---
 
 ⭐ If you find this card useful, consider starring the repository.
+
+------------------------------------------------------------------------
+
+## Features
+
+- 24h / 12h clock
+- optional seconds
+- optional weekday
+- optional AM/PM
+- animated dividers
+- configurable alignment
+- configurable typography
+- configurable colors
+- tabular numeric rendering
 
 ------------------------------------------------------------------------
 
