@@ -34,7 +34,9 @@ Designed to be clean, lightweight and grid-friendly.
 
 # Preview
 
-[preview]
+<p align="center">
+  <img src="Basic%20Usage.png" width="650">
+</p>
 
 ## Example layout:
 
@@ -77,6 +79,10 @@ Add:
 ------------------------------------------------------------------------
 
 ## Full Example
+
+<p align="center">
+  <img src="Full%20Example.gif" width="650">
+</p>
 
     type: custom:clock-card
 
@@ -259,15 +265,27 @@ Font weight:
 
 ### Clock without labels
 
+<p align="center">
+  <img src="Clock%20without%20labels.png" width="650">
+</p>
+
     type: custom:clock-card
     showLabels: false
 
 ### Clock without seconds
 
+<p align="center">
+  <img src="Clock%20without%20seconds.png" width="650">
+</p>
+
     type: custom:clock-card
     showSeconds: false
 
 ### 12h clock
+
+<p align="center">
+  <img src="12h%20clock.png" width="650">
+</p>
 
     type: custom:clock-card
     hour24: false
